@@ -1,0 +1,8 @@
+django
+django-ninja
+pyjwt
+psycopg2-binary
+python-dotenv
+pydantic
+dj-database-url
+django-cors-headers
