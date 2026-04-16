@@ -1,0 +1,8 @@
+# .gitignore
+node_modules/
+__pycache__/
+*.pyc
+venv/
+*.db
+config.bat
+.env
